@@ -1,0 +1,1 @@
+put the python file and music in same folder else it will throw an error
